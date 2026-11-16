@@ -1,0 +1,14 @@
+{
+  "name": "ESP3V2_4x5",
+  "version": "1.0.0",
+  "funding_url": "https://www.facebook.com/Arneljreasybuild",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        { "path": "ESP32C3_V2_4x5.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
