@@ -1,4 +1,4 @@
-# 🎤 ESP3V2 4x5 Free - EBJRemote
+# 🎤 ESP32v2-C3 4x5 Free - EBJRemote -ESPKeyPad
 
 A custom Bluetooth and Web-based remote controller for **SongHub Karaoke**, built using an **ESP32-C3** and a **4x5 Matrix Keypad**. 
 
