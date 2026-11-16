@@ -14,7 +14,7 @@ A custom Bluetooth and Web-based remote controller for **SongHub Karaoke**, buil
 You don't need to install Arduino IDE to use this! 
 1. Plug your ESP32-C3 into your computer using a USB cable.
 2. Open **Google Chrome** or **Microsoft Edge**.
-3. Go to the Web Flasher page: **[Click Here to Flash][(https://ryusukilight.github.io/ESP3V2_4x5_free/)](https://ryusukilight.github.io/ESPC3V2_4x5_free/)**
+3. Go to the Web Flasher page: **[Click Here to Flash]https://ryusukilight.github.io/ESPC32V2_C3_4x5_free/
 4. Click the **"CONNECT & INSTALL"** button.
 
 ---
